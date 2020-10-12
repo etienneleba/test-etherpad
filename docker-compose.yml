@@ -10,3 +10,4 @@ services:
       - 80:9001
     environment:
       ADMIN_PASSWORD: "admin"
+      LOAD_TEST: "true"
