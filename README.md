@@ -1,0 +1,1 @@
+# Etherpad test config
